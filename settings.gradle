@@ -1,2 +1,8 @@
 rootProject.name = 'lichy-java-base'
+include 'springboot-oauth2:oauth2-auth-server'
+findProject(':springboot-oauth2:oauth2-auth-server')?.name = 'oauth2-auth-server'
+include 'oauth2-auth-client'
+findProject(':springboot-oauth2:oauth2-auth-client')?.name = 'oauth2-auth-client'
+include 'springboot-oauth2:oauth2-auth-client'
+findProject(':springboot-oauth2:oauth2-auth-client')?.name = 'oauth2-auth-client'
 

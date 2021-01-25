@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="14" />
+    <bytecodeTargetLevel target="11">
+      <module name="lichy-java-base.oauth2-auth-client" target="14" />
+      <module name="oauth2-auth-client" target="14" />
+    </bytecodeTargetLevel>
   </component>
 </project>

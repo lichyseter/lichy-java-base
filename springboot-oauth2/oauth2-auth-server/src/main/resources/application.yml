@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: auth-server
+  redis:
+    database: 2
+    host: 127.0.0.1
+    port: 6379
+    jedis:
+      pool:
+        max-active: 8
+        max-idle: 8
+        min-idle: 0
+    timeout: 100ms
+  datasource:
+    url: jdbc:mysql://localhost:5432/lichy?characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: lichy
+    hikari:
+      connection-timeout: 30000
+      idle-timeout: 600000
+      max-lifetime: 1800000
+      maximum-pool-size: 9
+
+
+server:
+  port: 6001
+
+management:
+  endpoint:
+    health:
+      enabled: true
