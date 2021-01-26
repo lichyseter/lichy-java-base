@@ -10,4 +10,8 @@ include 'springboot-oauth2:oauth2-auth-server-jwt'
 findProject(':springboot-oauth2:oauth2-auth-server-jwt')?.name = 'oauth2-auth-server-jwt'
 include 'springboot-oauth2:oauth2-auth-client-jwt'
 findProject(':springboot-oauth2:oauth2-auth-client-jwt')?.name = 'oauth2-auth-client-jwt'
+include 'springboot-oauth2:oauth2-auth-server-jwt-enhancer'
+findProject(':springboot-oauth2:oauth2-auth-server-jwt-enhancer')?.name = 'oauth2-auth-server-jwt-enhancer'
+include 'springboot-oauth2:oauth2-auth-client-jwt-enhancer'
+findProject(':springboot-oauth2:oauth2-auth-client-jwt-enhancer')?.name = 'oauth2-auth-client-jwt-enhancer'
 

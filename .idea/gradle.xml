@@ -15,8 +15,10 @@
             <option value="$PROJECT_DIR$/springboot-oauth2" />
             <option value="$PROJECT_DIR$/springboot-oauth2/oauth2-auth-client" />
             <option value="$PROJECT_DIR$/springboot-oauth2/oauth2-auth-client-jwt" />
+            <option value="$PROJECT_DIR$/springboot-oauth2/oauth2-auth-client-jwt-enhancer" />
             <option value="$PROJECT_DIR$/springboot-oauth2/oauth2-auth-server" />
             <option value="$PROJECT_DIR$/springboot-oauth2/oauth2-auth-server-jwt" />
+            <option value="$PROJECT_DIR$/springboot-oauth2/oauth2-auth-server-jwt-enhancer" />
           </set>
         </option>
       </GradleProjectSettings>
