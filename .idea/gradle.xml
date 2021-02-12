@@ -11,6 +11,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/arthas" />
+            <option value="$PROJECT_DIR$/concurrent" />
+            <option value="$PROJECT_DIR$/leetcode" />
             <option value="$PROJECT_DIR$/oauth2-auth-client" />
             <option value="$PROJECT_DIR$/oauth2-auth-server-jwt" />
             <option value="$PROJECT_DIR$/springboot-oauth2" />

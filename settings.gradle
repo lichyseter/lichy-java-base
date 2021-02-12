@@ -15,4 +15,6 @@ findProject(':springboot-oauth2:oauth2-auth-server-jwt-enhancer')?.name = 'oauth
 include 'springboot-oauth2:oauth2-auth-client-jwt-enhancer'
 findProject(':springboot-oauth2:oauth2-auth-client-jwt-enhancer')?.name = 'oauth2-auth-client-jwt-enhancer'
 include 'arthas'
+include 'leetcode'
+include 'concurrent'
 
