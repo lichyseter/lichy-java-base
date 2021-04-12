@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.netty:netty-common:4.1.56.Final">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/io/netty/netty-common/4.1.27.Final-an1/netty-common-4.1.27.Final-an1-annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.56.Final/8e4888cfc66b7ec5a9fb291d9593511481274089/netty-common-4.1.56.Final.jar!/" />
+      <root url="jar://E:/gradle-6.7-all/gradle-6.7/caches/modules-2/files-2.1/io.netty/netty-common/4.1.56.Final/8e4888cfc66b7ec5a9fb291d9593511481274089/netty-common-4.1.56.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.56.Final/d1427c47243d87c7fb4fe3419cc803b67ea59943/netty-common-4.1.56.Final-sources.jar!/" />
+      <root url="jar://E:/gradle-6.7-all/gradle-6.7/caches/modules-2/files-2.1/io.netty/netty-common/4.1.56.Final/d1427c47243d87c7fb4fe3419cc803b67ea59943/netty-common-4.1.56.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

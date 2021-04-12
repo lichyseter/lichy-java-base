@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.netty:netty-buffer:4.1.56.Final">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/io/netty/netty-buffer/4.1.27.Final-an1/netty-buffer-4.1.27.Final-an1-annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.56.Final/92466b8de0e325a906c53bbaa9585091ef22001d/netty-buffer-4.1.56.Final.jar!/" />
+      <root url="jar://E:/gradle-6.7-all/gradle-6.7/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.56.Final/92466b8de0e325a906c53bbaa9585091ef22001d/netty-buffer-4.1.56.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.56.Final/43c317fa7a6b629f543ce0c5f3d47e701316f078/netty-buffer-4.1.56.Final-sources.jar!/" />
+      <root url="jar://E:/gradle-6.7-all/gradle-6.7/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.56.Final/43c317fa7a6b629f543ce0c5f3d47e701316f078/netty-buffer-4.1.56.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

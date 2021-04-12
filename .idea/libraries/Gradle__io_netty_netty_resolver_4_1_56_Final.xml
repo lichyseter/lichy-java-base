@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.netty:netty-resolver:4.1.56.Final">
+    <ANNOTATIONS>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/externalAnnotations/io/netty/netty-resolver/4.1.27.Final-an1/netty-resolver-4.1.27.Final-an1-annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.56.Final/548076140d58591265533418529e28c7ebbf8422/netty-resolver-4.1.56.Final.jar!/" />
+      <root url="jar://E:/gradle-6.7-all/gradle-6.7/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.56.Final/548076140d58591265533418529e28c7ebbf8422/netty-resolver-4.1.56.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.56.Final/b8927caade0bc41cffe691e11b709ae658edfb13/netty-resolver-4.1.56.Final-sources.jar!/" />
+      <root url="jar://E:/gradle-6.7-all/gradle-6.7/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.56.Final/b8927caade0bc41cffe691e11b709ae658edfb13/netty-resolver-4.1.56.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

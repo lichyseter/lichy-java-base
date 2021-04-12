@@ -2,8 +2,29 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="11">
+      <module name="lichy-java-base" target="14" />
+      <module name="lichy-java-base.main" target="14" />
       <module name="lichy-java-base.oauth2-auth-server-jwt.main" target="14" />
       <module name="lichy-java-base.oauth2-auth-server-jwt.test" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client-jwt" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client-jwt-enhancer" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client-jwt-enhancer.main" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client-jwt-enhancer.test" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client-jwt.main" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client-jwt.test" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client.main" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-client.test" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server-jwt" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server-jwt-enhancer" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server-jwt-enhancer.main" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server-jwt-enhancer.test" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server-jwt.main" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server-jwt.test" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server.main" target="14" />
+      <module name="lichy-java-base.springboot-oauth2.oauth2-auth-server.test" target="14" />
+      <module name="lichy-java-base.test" target="14" />
       <module name="oauth2-auth-client" target="14" />
     </bytecodeTargetLevel>
   </component>
