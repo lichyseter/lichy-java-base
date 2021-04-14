@@ -3,6 +3,15 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="11">
       <module name="lichy-java-base" target="14" />
+      <module name="lichy-java-base.arthas" target="14" />
+      <module name="lichy-java-base.arthas.main" target="14" />
+      <module name="lichy-java-base.arthas.test" target="14" />
+      <module name="lichy-java-base.concurrent" target="14" />
+      <module name="lichy-java-base.concurrent.main" target="14" />
+      <module name="lichy-java-base.concurrent.test" target="14" />
+      <module name="lichy-java-base.leetcode" target="14" />
+      <module name="lichy-java-base.leetcode.main" target="14" />
+      <module name="lichy-java-base.leetcode.test" target="14" />
       <module name="lichy-java-base.main" target="14" />
       <module name="lichy-java-base.oauth2-auth-server-jwt.main" target="14" />
       <module name="lichy-java-base.oauth2-auth-server-jwt.test" target="14" />
