@@ -1,4 +1,4 @@
-package com.lichy.java.concurrent.threadpool;
+package com.lichy.java.concurrent.queue;
 
 import java.util.concurrent.*;
 
